@@ -7,9 +7,7 @@
   <ol>
     <li>
       <a href="#TO-DO-APP">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#built-with">Built With</a>
     </li>
     <li>
       <a href="#Images">Getting Started</a>
