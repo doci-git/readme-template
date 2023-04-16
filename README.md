@@ -75,22 +75,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Colours
 
-The color palette for this project features five colors:  
-#010B13 - this is a very dark blue, almost black color  
-#F9F4FB - this is a very light pinkish-white color  
-#FAB1DC - this is a light pink color often associated with breast cancer awareness  
-#FF7900 - this is a bright orange color  
-#8129C1 - this is a bright purple color, often associated with pancreatic cancer awareness  
-The background of the site is set to light-pinkish, creating a calm and clean atmosphere. The navbar uses light pink, which is the color commonly associated with breast cancer awareness. The color bright orange is used to emphasize important words or keywords on the site. Bright purple is another color that is used for emphasis,mostly buttons, and is often associated with all types of cancer. Lastly, dark blue is used for text to provide a good contrast against the background and improve readability. Overall, the color palette is designed to create a visually appealing and informative experience for users.
 
 ![Color Palette](media/readme-images/general-images/color-palette.webp)
 
-## Typography
-
-For typography, the web app uses Google Fonts. The header font is Montserrat, which has a modern and clean style that creates a great visual impact. For the body text, Merriweather is used, a font that enhances readability and provides a comfortable reading experience. As a backup fonts are used Sans-Serif and Serif. Together, these fonts create a professional and visually pleasing design that aligns with the web app's mission of raising awareness about cancer.
-
-![Montserrat Font Style](media/readme-images/general-images/montserrat-font-style.webp)
-![Merriweather Font Style](media/readme-images/general-images/merriweather-font-style.webp)
 
 ## Imagery
 
@@ -100,13 +87,6 @@ All images used on this project are free copyrights. They are used to convey a m
 
 <a name="readme-top"></a>
 
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
 <!-- ABOUT THE PROJECT -->
@@ -167,25 +147,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 
-## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
