@@ -13,7 +13,7 @@ You can view the live site here: [TO-DOa-pp](https://www.google.com)
 ---
 
 <!-- TABLE OF CONTENTS -->
-
+<details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -35,7 +35,8 @@ You can view the live site here: [TO-DOa-pp](https://www.google.com)
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+  </ol
+    </details>
 
 
 ## App Target
