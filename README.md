@@ -14,10 +14,10 @@
     <li>
       <a href="#Images">Getting Started</a>
       <ul>
-        <li><a href="#Image">Images</a></li>
+        <li><a href="#Images">Images</a></li>
       </ul>
       <ul>
-        <li><a href="#Image">Colors</a></li>
+        <li><a href="#Images">Colors</a></li>
       </ul>
       <ul>
         <li><a href="#installation">Installation</a></li>
