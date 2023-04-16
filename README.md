@@ -74,8 +74,6 @@ Of course, no one template will serve all projects since your needs may be diffe
 All images used on this project are free copyrights.
 
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -85,29 +83,24 @@ All images used on this project are free copyrights.
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+1.  Install NPM packages
    ```
+   npm install
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Install NPM packages
+   ```sh
+   npm install
+   ```
+5. Enter your API in `config.js`
    ```js
    const API_KEY = "ENTER YOUR API";
    ```
@@ -115,27 +108,13 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/musadoci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musadoci" height="30" width="40" /></a>
