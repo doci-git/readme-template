@@ -38,22 +38,14 @@ You can view the live site here: [TO-DOa-pp](https://www.google.com)
   </ol>
 </details>
 
-## Site Aims
+## App Target
 
-- Raise awareness about cancer and its impact on individuals, families, and communities.
-- Provide educational resources about cancer, prevention and early detection.
-- Empower and support individuals and families affected by cancer with access to information, resources, and community support.
-- Foster a sense of connection and community among individuals affected by cancer, including survivors, patients, caregivers, and their loved ones.
-- Promote a positive and compassionate approach to cancer care and support.
-- Provide a user-friendly and accessible platform for individuals to find information, connect with resources, and share their experiences.
+- .
+- .
+- .
+- .
+- .
 
-## Target Audience
-
-**Primary Target Audience:**
-
-- Individuals who have been diagnosed with cancer and their families
-- Cancer survivors and their families
-- Individuals who are at high risk of developing cancer
 
 ### Built With
 
