@@ -2,26 +2,25 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#TO-DO-APP">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Images">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-  </ol
-</details>
+  </ol</details>
 
-**Welcome to TO-DO-APP**  
+**TO-DO-APP**  
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis velit quas molestias sit. Libero quaerat possimus in itaque. Maiores recusandae sed ipsam autem perferendis fugiat adipisci voluptatum aspernatur. Ratione, at!.
 
 **Our APP**  
@@ -63,7 +62,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 ![Color Palette](media/readme-images/general-images/color-palette.webp)
 
 
-## Imagery
+## Images
 
 All images used on this project are free copyrights.
 
