@@ -7,6 +7,8 @@
   <ol>
     <li>
       <a href="#TO-DO-APP">About The Project</a>
+   </li>
+    <li>
       <a href="#built-with">Built With</a>
     </li>
     <li>
@@ -53,17 +55,16 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
+  
+## Images
+
+All images used on this project are free copyrights.
 
 
 ## Colours
 
 ![Color Palette](media/readme-images/general-images/color-palette.webp)
-
-
-## Images
-
-All images used on this project are free copyrights.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
