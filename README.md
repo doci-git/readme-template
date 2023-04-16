@@ -1,17 +1,5 @@
 # to-do-app - Introduction
 
-**Welcome to TO-DO-APP**  
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis velit quas molestias sit. Libero quaerat possimus in itaque. Maiores recusandae sed ipsam autem perferendis fugiat adipisci voluptatum aspernatur. Ratione, at!.
-
-**Our APP**  
-todo-app is a web application that aims to to remember you things, The idea for the project originated from :Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis velit quas molestias sit. Libero quaerat possimus in itaque. Maiores recusandae sed ipsam autem perferendis fugiat adipisci voluptatum aspernatur. Ratione, at!
-
-You can view the live site here: [TO-DOa-pp](https://www.google.com)
-
-![Screenshot showcasing the responsive design of my web app](image/path)
-
----
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -36,8 +24,19 @@ You can view the live site here: [TO-DOa-pp](https://www.google.com)
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol
-    </details>
+</details>
 
+**Welcome to TO-DO-APP**  
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis velit quas molestias sit. Libero quaerat possimus in itaque. Maiores recusandae sed ipsam autem perferendis fugiat adipisci voluptatum aspernatur. Ratione, at!.
+
+**Our APP**  
+todo-app is a web application that aims to to remember you things, The idea for the project originated from :Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis velit quas molestias sit. Libero quaerat possimus in itaque. Maiores recusandae sed ipsam autem perferendis fugiat adipisci voluptatum aspernatur. Ratione, at!
+
+You can view the live site here: [TO-DOa-pp](https://www.google.com)
+
+![Screenshot showcasing the responsive design of my web app](image/path)
+
+---
 
 ## App Target
 
