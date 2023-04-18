@@ -24,7 +24,8 @@
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
-  </ol</details>
+  </ol>
+
 
 **TO-DO-APP**  
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corporis velit quas molestias sit. Libero quaerat possimus in itaque. Maiores recusandae sed ipsam autem perferendis fugiat adipisci voluptatum aspernatur. Ratione, at!.
